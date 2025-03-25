@@ -11,7 +11,7 @@ This project uses TypeScript and requires Node.js. We recommend using Node.js ve
 First, install the dependencies for this repository:
 
 ```bash
-npm install
+npm install 
 ```
 
 Next, copy the example environment variables:
